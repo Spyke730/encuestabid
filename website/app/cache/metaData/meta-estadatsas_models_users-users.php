@@ -1,0 +1,127 @@
+<?php return array (
+  0 => 
+  array (
+    0 => 'id',
+    1 => 'name',
+    2 => 'email',
+    3 => 'password',
+    4 => 'pais',
+    5 => 'paisId',
+    6 => 'pagina',
+    7 => 'registro',
+    8 => 'registro_el',
+    9 => 'recordo_el',
+    10 => 'vecesRecordo',
+    11 => 'mustChangePassword',
+    12 => 'profilesId',
+    13 => 'banned',
+    14 => 'suspended',
+    15 => 'active',
+    16 => 'creado_el',
+  ),
+  1 => 
+  array (
+    0 => 'id',
+  ),
+  2 => 
+  array (
+    0 => 'name',
+    1 => 'email',
+    2 => 'password',
+    3 => 'pais',
+    4 => 'paisId',
+    5 => 'pagina',
+    6 => 'registro',
+    7 => 'registro_el',
+    8 => 'recordo_el',
+    9 => 'vecesRecordo',
+    10 => 'mustChangePassword',
+    11 => 'profilesId',
+    12 => 'banned',
+    13 => 'suspended',
+    14 => 'active',
+    15 => 'creado_el',
+  ),
+  3 => 
+  array (
+    0 => 'id',
+    1 => 'name',
+    2 => 'email',
+    3 => 'password',
+    4 => 'pais',
+    5 => 'paisId',
+    6 => 'pagina',
+    7 => 'registro',
+    8 => 'vecesRecordo',
+    9 => 'profilesId',
+    10 => 'banned',
+    11 => 'suspended',
+  ),
+  4 => 
+  array (
+    'id' => 0,
+    'name' => 2,
+    'email' => 2,
+    'password' => 5,
+    'pais' => 2,
+    'paisId' => 0,
+    'pagina' => 0,
+    'registro' => 5,
+    'registro_el' => 4,
+    'recordo_el' => 4,
+    'vecesRecordo' => 0,
+    'mustChangePassword' => 5,
+    'profilesId' => 0,
+    'banned' => 5,
+    'suspended' => 5,
+    'active' => 5,
+    'creado_el' => 17,
+  ),
+  5 => 
+  array (
+    'id' => true,
+    'paisId' => true,
+    'pagina' => true,
+    'vecesRecordo' => true,
+    'profilesId' => true,
+  ),
+  8 => 'id',
+  9 => 
+  array (
+    'id' => 1,
+    'name' => 2,
+    'email' => 2,
+    'password' => 2,
+    'pais' => 2,
+    'paisId' => 1,
+    'pagina' => 1,
+    'registro' => 2,
+    'registro_el' => 2,
+    'recordo_el' => 2,
+    'vecesRecordo' => 1,
+    'mustChangePassword' => 2,
+    'profilesId' => 1,
+    'banned' => 2,
+    'suspended' => 2,
+    'active' => 2,
+    'creado_el' => 2,
+  ),
+  10 => 
+  array (
+  ),
+  11 => 
+  array (
+  ),
+  12 => 
+  array (
+    'pagina' => '0',
+    'registro_el' => NULL,
+    'recordo_el' => NULL,
+    'mustChangePassword' => NULL,
+    'active' => NULL,
+    'creado_el' => 'CURRENT_TIMESTAMP',
+  ),
+  13 => 
+  array (
+  ),
+); 
